@@ -1,0 +1,10 @@
+@font-face {
+font-family: 'BPdotsDiamond Bold';
+font-style: normal;
+font-weight: normal;
+src: local('BPdotsDiamond Bold'), url('BPdotsDiamondBold.woff') format('woff');
+}
+
+h1 {
+	font-family: BPdotsDiamond Bold;
+}
